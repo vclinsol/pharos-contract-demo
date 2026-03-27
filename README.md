@@ -12,7 +12,7 @@ A simple storage contract designed for learning and testing on Pharos testnet. T
 
 ## Contract Details
 - **Network**: Pharos Testnet
-- **Solidity Version**: ^0.8.20
+- **Solidity Version**: 0.8.20
 - **License**: MIT
 - **Access Control**: Owner only
 
